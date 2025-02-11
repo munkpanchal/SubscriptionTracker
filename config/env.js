@@ -10,7 +10,7 @@
 export const PORT = 5000;
 
 // # ENVIRONMENT
-export const NODE_ENV = development;
+export const NODE_ENV = "development";
 
 // # Database
 export const DB_URI =
